@@ -1,6 +1,6 @@
 #MultiSwitcher
 Dofus2 MultiSwitcher by @HoPolloTV
-</br></br></br>
+</br></br>
 
 <b>Comment utiliser le programme :</b>
 </br></br>
