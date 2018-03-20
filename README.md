@@ -29,4 +29,4 @@ Dofus2 MultiSwitcher by @HoPolloTV
 <b>Num -</b> : Reduce all characters's windows</br>
 <b>Num +</b> : Reopen all characters's windows</br>
 <b>Num /</b> : Close all characters's + MultiSwitcher</br>
-<b>Echap</b> : Close MultiSwitcher
+<b>Exit</b> : Close MultiSwitcher
