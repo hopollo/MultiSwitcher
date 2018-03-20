@@ -8,7 +8,6 @@ Dofus2 MultiSwitcher by @HoPolloTV
 1°) Renseigner les pseudo des personnages </br>
 2°) Lancer l'execution </br>
 </br>
-
 <b>Raccourcis</b> <i>(Pavé Numérique)</i> <b>:</b>
 </br></br>
 <b>Num 1 à 8</b> : Switcher entre les personnages</br>
@@ -17,13 +16,13 @@ Dofus2 MultiSwitcher by @HoPolloTV
 <b>Num /</b> : Ferme toutes les fenêtres personnages + MultiSwitcher</br>
 <b>Echap</b> : Fermer MultiSwitcher
 
+</br>
 <b>English</b>
 <b>How to use this programme :</b>
 </br></br>
 1°) Write down all characters's</br>
 2°) Start it</br>
 </br>
-
 <b>Shortcuts</b> <i>(Numpad keys)</i> <b>:</b>
 </br></br>
 <b>Num 1 to 8</b> : Switch between characters</br>
