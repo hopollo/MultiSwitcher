@@ -20,7 +20,7 @@ Dofus2 MultiSwitcher by @HoPolloTV
 <b>English</b>
 <b>How to use this programme :</b>
 </br></br>
-1°) Write down all characters's</br>
+1°) Write down all characters's exact names</br>
 2°) Start it</br>
 </br>
 <b>Shortcuts</b> <i>(Numpad keys)</i> <b>:</b>
